@@ -15,8 +15,8 @@
 #
 
 PRODUCT_MAKEFILES += \
-    $(LOCAL_DIR)/lineage_flashlm.mk
+    $(LOCAL_DIR)/havoc_flashlm.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_flashlm-userdebug \
-    lineage_flashlm-eng
+    havoc_flashlm-userdebug \
+    havoc_flashlm-eng
